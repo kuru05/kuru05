@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuru05
 - 👀 I’m interested in sports, music, web and app developping.
 - 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, C++, C and Python.
-- 📫 How to reach me : You can via mail (merlin.cdl@hotmail.com), or via my LinkedIn!
+- 📫 How to reach me : You can via mail (merlin.cdl@hotmail.com), or via my LinkedIn (https://www.linkedin.com/in/merlin-coudol-860705195/)!
 - ⚡ Fun fact: My cat loves me!
 
 <!---
