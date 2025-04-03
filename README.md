@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuru05
 - 👀 I’m interested in sports, music, web and app developping.
-- 🌱 I’m currently learning HTML, CSS, PHP, SQL, JavaScript (including React), C++, WordPress (and some APIs working with React), as well as Python.
+- 🌱 I’m currently learning HTML, CSS (including Astro), PHP, SQL, JavaScript (including React), C++, WordPress (and some APIs working with React), as well as Python.
 - 📫 How to reach me : You can via mail (merlin.cdl@hotmail.com), or via my LinkedIn (https://www.linkedin.com/in/merlin-coudol-860705195/)!
 - ⚡ Fun fact: My cat loves me!
 
