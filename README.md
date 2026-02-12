@@ -7,7 +7,6 @@ Welcome to my portfolio! Here is a detailed overview of the projects I have been
 ### 🐘 Symfony EventHub
 **Tech Stack:** Symfony 7.4, PHP 8.2, Twig, MySQL, Doctrine.
 
->**Note:** This project allows users to manage and participate in events.
 
 **Key Features:**
 - **📅 Event Management:** Browse, create, and organize events.
@@ -19,17 +18,6 @@ Welcome to my portfolio! Here is a detailed overview of the projects I have been
   - Articles (CRUD)
   - Reservations
 
-### ☕ Expresso
-**Tech Stack:** Symfony 7.4, Doctrine ORM, Twig.
-
->**Note:** A content management prototype focusing on article administration.
-
-**Key Features:**
-- **📝 Article CRUD:** Full management interface for creating, editing, and deleting articles (`ArticleController`).
-- **contacts:** Simple contact page structure `ContactController`.
-- **Database Integration:** Uses Doctrine ORM for data persistence.
-
----
 
 ## ⚛️ JavaScript / React Projects
 
